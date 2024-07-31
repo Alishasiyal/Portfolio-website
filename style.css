@@ -62,13 +62,13 @@ body {
   margin-top: 150px;
 }
 
-
-  /* display: flex; */
-  /* justify-content: center; */
-  /* align-items: center; */
-  /* gap: 2rem; */
-  /* padding: 10rem 9% 2rem; */
-
+/* .home {
+  /display: flex;
+  justify-content: center; 
+   align-items: center; 
+   gap: 2rem; 
+   padding: 10rem 9% 2rem; 
+} */
 
 .home-content {
   text-align: center;
